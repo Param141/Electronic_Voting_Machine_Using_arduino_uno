@@ -30,7 +30,7 @@ Push Buttons: The three push buttons are connected directly to Arduino pins A1 (
 
 Control Pins:
 RS to Arduino pin 12.
-RW to GND
+RW to GND.
 En to Arduino pin 11
 Data Pins:
 D4 to Arduino pin 5
