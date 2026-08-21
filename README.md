@@ -22,7 +22,7 @@ Reading the push button inputs.
 Incrementing the vote counts.
 Calculating the result.
 Displaying the votes and final result on the LCD.
-Circuit Connections
+Circuit Connections.
 The circuit for this project is quite straightforward:
 Push Buttons: The three push buttons are connected directly to Arduino pins A1 (15), A2 (16), and A3 (17), with the other end connected to ground.
 16x2 LCD: The LCD is connected to the Arduino in 4-bit mode.
